@@ -52,7 +52,6 @@ Pull requests are welcome! Feel free to open an issue for bug reports or feature
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/your-username)
-- **Email**: [your-email@example.com](mailto\:your-email@example.com)
+- **GitHub**: [your-username](https://github.com/krishnapalsinhgohil)
 
 
