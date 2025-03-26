@@ -52,6 +52,6 @@ Pull requests are welcome! Feel free to open an issue for bug reports or feature
 
 For questions or suggestions, feel free to reach out:
 
-- **GitHub**: [your-username](https://github.com/krishnapalsinhgohil)
+- **GitHub**: [Krishnapalsinh Gohil](https://github.com/krishnapalsinhgohil)
 
 
